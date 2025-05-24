@@ -1,0 +1,1 @@
+This repository hosts a curated collection of Python projects designed for all skill levels—from beginners to advanced developers. Each project is categorized by complexity, helping learners progressively enhance their coding abilities while building practical applications.
